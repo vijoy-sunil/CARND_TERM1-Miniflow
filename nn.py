@@ -1,6 +1,6 @@
 """
-Check out the new network architecture and dataset!
 
+The Boston Housing dataset is used and after training the network will be able to predict prices of Boston housing!
 Notice that the weights and biases are
 generated randomly.
 
